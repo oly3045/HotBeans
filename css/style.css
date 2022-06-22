@@ -1,0 +1,64 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  margin-right: 100px;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+}
+
+#testimonial {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.testimonial-image {
+  width: 50%;
+  border-radius: 500%;
+  margin: 20px;
+
+}
+.carousel-item {padding: 7% 15%;}
+  
+
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: #111;
+  }
+  body{background-color: rgb(161, 213, 236);}
+
+ 
+.people-card {
+  width: 250px;
+  height: 550px;
+  background-color: bisque;
+}
+
+.container{
+  background-color: bisque;
+  
+}
+ 
+
+
+.container5 {position: absolute;
+  margin-left: 300px;
+  background-color: bisque;
+
+}
+ 
+ .container7 {background-color: cornflowerblue;}
+  
+ 
+  .container {background-color: aliceblue;}
+  .row {background-color: whitesmoke;}
+  
